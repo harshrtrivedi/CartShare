@@ -1,0 +1,9 @@
+.Banner {
+    /* display: flex;
+    flex-wrap:  wrap;
+    justify-content: space-around; */
+    /* margin-left: -90px; */
+    width: 100%;
+    flex-direction: row;
+    padding: 20px;
+  }
